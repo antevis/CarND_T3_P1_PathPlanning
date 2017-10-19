@@ -58,7 +58,7 @@ To say the least, this is not my style of decision-making.
 
 For trajectory, I have extensively borrowed the techniques used by [Aaron Brown](https://github.com/awbrown90) 
 in [his native implementation](https://github.com/awbrown90/CarND-Path-Planning-Project). In fact, I **do** have a successful implementation using the concept of **Jerk Minimizing Trajectories** provided in classes but failed to prevent it from **breaking the jerk/acceleration** limits in some marginal states.
-Aaron is presumably at least the co-author of the Simulator and the way it interfaces with the outer world, so he probably knows the best way to interact with it.
+Aaron is presumably the co-author of the Simulator and its interface with the outer world, so he probably knows the best way to interact with it.
 
 #### Results
 
