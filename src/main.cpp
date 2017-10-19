@@ -116,7 +116,7 @@ int main() {
                     
                     stateAgent.updateState(terminalFrenet, previousPath, t, sensor_fusion);
                     
-                    stateAgent.roadMap(225, 25);
+//                    stateAgent.roadMap(225, 25);
                     
                     CartesianPath newPath = pathAgent.extendPath(stateAgent);
 
