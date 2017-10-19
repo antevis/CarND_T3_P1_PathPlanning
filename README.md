@@ -64,9 +64,11 @@ Aaron is presumably the co-author of the Simulator and its interface with the ou
 
 The implementation more or less guarantees that no incidents will be triggered by the Ego. It also processes the situations when **Bee** unexpectedly swerves into the Ego's lane right in front of it.
 
-However, situations like the one below aren't sorted out.
+However, situations like the one below **aren't** processed.
 
 ![alt text][tailGate]
+
+This looks like a [common self-driving car problem](https://sf.curbed.com/2017/6/12/15781292/self-driving-car-accidents) when human drivers rear-end autonomous vehicles  and is beyond the scope of the [Projects rubric](https://review.udacity.com/#!/rubrics/1020/view), although it obviously possible to properly address such situations.
 
 The sample video of successfully passing the entire highway loop may be found on [my humble YouTube channel](https://youtu.be/BV0rfsj1ALw).
 
