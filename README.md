@@ -78,5 +78,5 @@ I've added two new sources to `CMakeLists.txt`: `src/stateAgent.cpp` and `src/pa
 
 1. `mkdir build && cd build`
 2. `cmake .. && make`
-3. `./mpc`.
+3. `./path_planning`.
 
