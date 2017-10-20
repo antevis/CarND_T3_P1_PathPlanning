@@ -68,7 +68,7 @@ However, situations like the one below **aren't** processed.
 
 ![alt text][tailGate]
 
-This looks like a [common self-driving car problem](https://sf.curbed.com/2017/6/12/15781292/self-driving-car-accidents) when human drivers rear-end autonomous vehicles  and is beyond the scope of the [Projects rubric](https://review.udacity.com/#!/rubrics/1020/view), although it obviously possible to properly address such situations.
+This looks like a [common self-driving car problem](https://sf.curbed.com/2017/6/12/15781292/self-driving-car-accidents) when human drivers rear-end autonomous vehicles  and is beyond the scope of this [Project specification](https://review.udacity.com/#!/rubrics/1020/view), although it obviously possible to properly address such situations.
 
 The sample video of successfully passing the entire highway loop may be found on [my humble YouTube channel](https://youtu.be/BV0rfsj1ALw).
 
